@@ -27,7 +27,7 @@ appId: tu_codeName_para_programa
 productName: nombreProducion
 copyright: 'Copyright © 2019 H-Dev'
 extends: react-cra
-electronVersion: 7.1.0
+electronVersion: 9.1.2
 nsis:
   allowElevation: false
   allowToChangeInstallationDirectory: true
