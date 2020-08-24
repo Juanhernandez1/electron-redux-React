@@ -7,7 +7,7 @@ export default function about() {
       <nav>
         <ul>
           <li>
-            <Link to="/">Casa</Link>
+            <Link to="/"ummmm</Link>
           </li>
         </ul>
       </nav>
